@@ -1,5 +1,3 @@
-// Script.js
-
 document.addEventListener('DOMContentLoaded', function () {
     let productsContainer = document.querySelector('.products');
 
